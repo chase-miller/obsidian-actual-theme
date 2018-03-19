@@ -1343,7 +1343,7 @@
       </Color>
       <Color Name="HTML Tag Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0000FF" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="VBScript Keyword">
         <Background Type="CT_COLORINDEX" Source="00000001" />
@@ -1722,8 +1722,8 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="RazorCode">
-        <Background Type="CT_RAW" Source="FFE5E5E5" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF66747B" />
+        <Foreground Type="CT_RAW" Source="FFE0E2E4" />
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2323,7 +2323,7 @@
       </Color>
       <Color Name="ReSharper Template Editor HTML Tag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper Constant Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2547,7 +2547,7 @@
       </Color>
       <Color Name="ReSharper HTML Fallback Tag Delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper HTML Entity 1">
         <Background Type="CT_INVALID" Source="00000000" />
