@@ -1742,7 +1742,7 @@
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="Knockout Region">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
@@ -1906,7 +1906,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="md_quote">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="md_html">
@@ -2062,7 +2062,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Current Line Highlight">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Error Unresolved">
@@ -2226,7 +2226,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Highlight">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Highlight Marker on Error Stripe">
@@ -2234,7 +2234,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Read Usage">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Read Usage Marker on Error Stripe">
@@ -2306,7 +2306,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Usage of element under cursor">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Smart Paste">
@@ -2386,7 +2386,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper String Escape Character 1">
@@ -2414,11 +2414,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Regex Matched Value">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Regex Matched Selection">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Stack Trace Method">
@@ -2578,7 +2578,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Background">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper IL Keyword">
@@ -2618,7 +2618,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper IL Viewer synchronization">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
@@ -2726,15 +2726,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Completion Replacement Range">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Rearrange Left/Right Code Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Rearrange Up/Down Code Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Search with Pattern Editor Template Keyword">
@@ -8737,7 +8737,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SQLCMD Command">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF424344" />
         <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="Error">
@@ -10025,12 +10025,6 @@
       </Color>
       <Color Name="TagButtonBorder">
         <Foreground Type="CT_RAW" Source="FF424242" />
-      </Color>
-    </Category>
-    <Category Name="XAML Designer" GUID="{fa937f7b-c0d2-46b8-9f10-a7a92642b384}">
-      <Color Name="Artboard Background">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
   </Theme>
