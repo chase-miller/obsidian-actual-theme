@@ -1,10 +1,10 @@
 <scheme name="Obsidian copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-06-04T16:19:07</property>
+    <property name="created">2021-06-16T12:04:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-06-04T16:19:15</property>
+    <property name="modified">2021-06-16T12:04:17</property>
     <property name="originalScheme">Obsidian copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -21,6 +21,7 @@
     <option name="INDENT_GUIDE" value="343f41" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
     <option name="LINE_NUMBERS_COLOR" value="66747a" />
+    <option name="NOTIFICATION_BACKGROUND" value="302924" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="333333" />
     <option name="RECENT_LOCATIONS_SELECTION" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
